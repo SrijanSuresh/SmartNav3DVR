@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.30.0/Hello Cardboard/Scenes/VrMode.unity
+    guid: a45c80a4da1fa4625a30ce04b599e90d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6ca0af8a7dad227419beaa4d38f6ef9f, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f097d32ed4f03304ebc965c621063e48, type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: 37d2dd420c3f2244e956267cf837197d, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c656fe77a201cc849851ba4268814736, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1f6160218d7a0bb4dbe6795b648fed69, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 91700627f6eb2264aa3fe6259367524d, type: 2}
+  m_UseUCBPForAssetBundles: 0
